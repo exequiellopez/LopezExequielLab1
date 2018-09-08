@@ -1,0 +1,20 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">LopezExequielLab1</string>
+    <string name="linear_layout">Linear Layout</string>
+    <string name="quiapo_church">Quiapo Church</string>
+    <string name="_363_quezon_blvd_quiapo_manila">363 Quezon Blvd, Quiapo, Manila</string>
+    <string name="_1_4_kilometers">1.4 kilometers</string>
+    <string name="location" tools:ignore="DuplicateDefinition">Location:</string>
+    <string name="national_museum">National Museum</string>
+    <string name="padre_burgos_ave_ermita_manila">Padre Burgos Ave, Ermita, Manila</string>
+    <string name="relative_layout">Relative Layout</string>
+    <string name="_3_5_kilometers">3.5 kilometers</string>
+    <string name="back" tools:ignore="DuplicateDefinition">BACK</string>
+    <string name="next" tools:ignore="DuplicateDefinition">NEXT</string>
+    <string name="todo" tools:ignore="DuplicateDefinition">TODO</string>
+    <string name="manila_luzon_1102_philippines">Manila, Luzon 1102, Philippines</string>
+    <string name="distance_from_ust" tools:ignore="DuplicateDefinition">Distance from UST:</string>
+    <string name="_1_3_kilometers">1.3 kilometers</string>
+    <string name="constraint_layout">Constraint Layout</string>
+    <string name="smokey_tours">Smokey Tours</string>
+</resources>
